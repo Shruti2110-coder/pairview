@@ -1,5 +1,3 @@
-// Hardcoded for now. Moves to Postgres later, but the shape
-// stays the same — so the code that uses it won't change.
 const questions = [
 {
     id: "merge-intervals",
